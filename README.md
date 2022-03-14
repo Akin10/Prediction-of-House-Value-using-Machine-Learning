@@ -1,1 +1,2 @@
 # Prediction-of-House-Value-using-Machine-Learning
+# This repository consists of code that was written in Python for the purpose of predicting the values of houses in some areas in California by considering various factors or features of houses in that area. The ocean proximity variable was removed from the data due to its relatively non-existent correlation to the use of the data. The accuracy of the Linear Regression model that was used was determined by obtaining the Root Mean Square Error (RMSE) value.
